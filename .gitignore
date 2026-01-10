@@ -48,4 +48,15 @@ replay_pid*
 .idea/
 
 
+# 옵시디언 설정
+.obsidian/
+
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/app.json
+
+.trash/
+.DS_Store
+
+
 
